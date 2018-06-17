@@ -7,7 +7,6 @@ package id
 
 
 import (
-	"log"
 	"errors"
 	"crypto/rand"
 	"encoding/hex"
